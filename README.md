@@ -21,10 +21,10 @@ Inside your local repository, create a path for the Pandas Challenge you have pi
 Then you will add the Jupyter notebook to this folder. This will be the main script to run for analysis.
 
 
-Heroes of Pymoli:
+Heroes of Pymoli Challenge
 
-After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been selected the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
-Like many others in its genre, this game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+After a lot of hard work in the data, you've landed a job as Lead Analyst for an independent gaming company. In this task You've been selected to analyze the data for their most recent fantasy game called Heroes of Pymoli.
+Like many others games, this game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
 Your final report should include each of the following:
 
@@ -49,26 +49,27 @@ Gender Demographics
 *Percentage and Count of Other / Non-Disclosed
 
 
+
 Purchasing Analysis (Gender)
 
 The below each broken by gender
 
-Purchase Count
-Average Purchase Price
-Total Purchase Value
-Average Purchase Total per Person by Gender
+-Purchase Count
+-Average Purchase Price
+-Total Purchase Value
+-Average Purchase Total per Person by Gender
 
 
 
 
 Age Demographics
 
-The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
+Below are broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
 
-Purchase Count
-Average Purchase Price
-Total Purchase Value
-Average Purchase Total per Person by Age Group
+-Purchase Count
+-Average Purchase Price
+-Total Purchase Value
+-Average Purchase Total per Person by Age Group
 
 
 
