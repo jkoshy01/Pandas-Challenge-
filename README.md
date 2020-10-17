@@ -24,9 +24,9 @@ Then you will add the Jupyter notebook to this folder. This will be the main scr
 Heroes of Pymoli Challenge
 
 After a lot of hard work in the data, you've landed a job as Lead Analyst for an independent gaming company. In this task You've been selected to analyze the data for their most recent fantasy game called Heroes of Pymoli.
-Like many others games, this game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+Like many others games, this game is free to play,  the players are encouraged to purchase optional items that will enhance their playing experience. As a first task, the company would like you to generate a analysis that will breaks down the game's purchasing data into meaningful insights.
 
-Your final report should include each of the following:
+Your final analysis should include each of the following:
 
   Player Count
 
@@ -51,14 +51,18 @@ Gender Demographics
 
 
 
+
+
 Purchasing Analysis (Gender)
 
-broken by gender
+ broken by gender
 
    Purchase Count
    Average Purchase Price
    Total Purchase Value
    Average Purchase Total per Person by Gender
+
+
 
 
 
@@ -77,6 +81,8 @@ broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
 
 
 
+
+
 Top Spenders
 
    Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
@@ -85,6 +91,9 @@ Top Spenders
      Purchase Count
      Average Purchase Price
      Total Purchase Value
+
+
+
 
 
 
@@ -98,6 +107,9 @@ Most Popular Items
    Purchase Count
    Item Price
    Total Purchase Value
+
+
+
 
 
 
