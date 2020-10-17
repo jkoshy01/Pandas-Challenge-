@@ -1,4 +1,4 @@
-# Pandas-challenge-
+# Pandas-challenge:
 Pandas Homework - Heroes of Pymoli
 
 Objective:
