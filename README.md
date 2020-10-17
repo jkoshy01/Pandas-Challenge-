@@ -30,22 +30,23 @@ Your final report should include each of the following:
 
 Player Count
 
-Total Number of Players
+*Total Number of Players
+
 
 
 Purchasing Analysis (Total)
 
-Number of Unique Items
-Average Purchase Price
-Total Number of Purchases
-Total Revenue
+*Number of Unique Items
+*Average Purchase Price
+*Total Number of Purchases
+*Total Revenue
 
 
 Gender Demographics
 
-Percentage and Count of Male Players
-Percentage and Count of Female Players
-Percentage and Count of Other / Non-Disclosed
+*Percentage and Count of Male Players
+*Percentage and Count of Female Players
+*Percentage and Count of Other / Non-Disclosed
 
 
 Purchasing Analysis (Gender)
